@@ -1,0 +1,3 @@
+[submodule "themes/wowchemy-upstream"]
+	path = themes/wowchemy-upstream
+	url = git@github.com:wowchemy/wowchemy-hugo-themes.git
