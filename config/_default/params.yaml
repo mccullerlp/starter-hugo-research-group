@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
   font: native
   font_size: L
 
@@ -18,10 +18,10 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A Physics Lab'
+    #twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-MGDPZTHB02'
     baidu_tongji: ''
   verification:
     google: ''
@@ -91,7 +91,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'google'
     api_key: ''
     zoom: 15
 

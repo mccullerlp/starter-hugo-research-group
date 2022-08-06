@@ -21,15 +21,13 @@ removePathAccents: true
 
 module:
   imports:
-    - path: wowchemy-plugin-netlify-cms
-    - path: wowchemy-plugin-netlify
     - path: wowchemy
 
 ############################
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
