@@ -21,8 +21,6 @@ removePathAccents: true
 
 module:
   imports:
-    - path: wowchemy-plugin-netlify-cms
-    - path: wowchemy-plugin-netlify
     - path: wowchemy
 
 ############################
@@ -43,7 +41,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
