@@ -1,8 +1,8 @@
 ---
-title: Latest News
+title: Research
 
 # Listing view
-view: compact
+type: widget_page
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

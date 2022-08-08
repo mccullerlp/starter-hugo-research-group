@@ -1,5 +1,6 @@
 ---
-title:
+title: CTA
+active: false
 subtitle:
 widget: blank
 headless: true
